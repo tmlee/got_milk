@@ -18,6 +18,11 @@ describe GotMilk do
 
 	end
 
+	context "testing for existence of Email" do
+	end
+
+	context "testing for existence of Link URL" do
+	end
 
 
 end
