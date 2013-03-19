@@ -14,4 +14,7 @@ Gem::Specification.new do |gem|
   gem.name          = "got_milk"
   gem.require_paths = ["lib"]
   gem.version       = GotMilk::VERSION
+
+  gem.add_dependency('rspec', '~> 2.13.0')
+
 end
